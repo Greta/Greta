@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Greta
 
-<!--
-**Greta/Greta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend engineering · Design systems · UX**
 
-Here are some ideas to get you started:
+I build interfaces that make complex products easier to use. I have 15+ years of software engineering experience, including principal frontend engineering at Fidelity Investments and senior frontend and UX engineering at Hitachi Vantara.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work connects thoughtful design with reusable components, accessible interactions, and maintainable frontend architecture.
+
+## What I bring
+
+- **Design systems:** shared React components at Hitachi Vantara and framework-agnostic components at Fidelity.
+- **Product UX:** enterprise SaaS interfaces, responsive websites, and drag-and-drop authoring tools at SnapApp, where I was a founding employee.
+- **Modernization and quality:** legacy frontend migrations, automated testing, and close collaboration with design, product, and engineering teams.
+
+**Tools I've worked with:** JavaScript, TypeScript, React, Angular, Vue, Lit, HTML, CSS, Sass, Storybook, Cypress, and Figma.
+
+## Personal projects
+
+| Project | About |
+| --- | --- |
+| [Rabbitype](https://github.com/Greta/rabbitype) | A typing game built with React and TypeScript. My next portfolio refresh. |
+| [Zonks](https://github.com/Greta/zonks) | An interactive exploration of the Monty Hall problem, built with React. |
+| [Hunt the Wumpus](https://github.com/Greta/wumpus) | An earlier AngularJS game inspired by the TI-99/4A classic. |
+
+I'm refreshing my public portfolio and planning a class-attendance app as a way to explore Svelte.
+
+Outside of code, I enjoy painting, board games, and puzzles.
+
+**Open to full-time remote frontend engineering opportunities in the US.**
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/greta-prisby-9bb15623/)
