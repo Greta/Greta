@@ -12,7 +12,7 @@ My work connects thoughtful design with reusable components, accessible interact
 - **Product UX:** enterprise SaaS interfaces, responsive websites, and drag-and-drop authoring tools at SnapApp, where I was a founding employee.
 - **Modernization and quality:** legacy frontend migrations, automated testing, and close collaboration with design, product, and engineering teams.
 
-**Tools I've worked with:** JavaScript, TypeScript, React, Angular, Vue, Svelte, Lit, HTML, CSS, Sass, Storybook, Cypress, and Figma.
+**Tools I've worked with:** JavaScript, TypeScript, React, Angular, Vue, Svelte, Lit, HTML, CSS, Sass, Storybook, Cypress, Figma, and Adobe Products.
 
 ## Personal projects
 
@@ -20,7 +20,7 @@ My work connects thoughtful design with reusable components, accessible interact
 | --- | --- |
 | [Rabbitype](https://github.com/Greta/rabbitype) | A typing game built with React and TypeScript. My next portfolio refresh. |
 | [Zonks](https://github.com/Greta/zonks) | An interactive exploration of the Monty Hall problem, built with React. |
-| [Hunt the Wumpus](https://github.com/Greta/wumpus) | An earlier AngularJS game inspired by the TI-99/4A classic. |
+| [Hunt the Wumpus](https://github.com/Greta/wumpus) | Originally created in AngularJS. An Angular game inspired by the TI-99/4A classic. |
 
 Outside of code, I enjoy painting, board games, and puzzles.
 
