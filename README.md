@@ -12,7 +12,7 @@ My work connects thoughtful design with reusable components, accessible interact
 - **Product UX:** enterprise SaaS interfaces, responsive websites, and drag-and-drop authoring tools at SnapApp, where I was a founding employee.
 - **Modernization and quality:** legacy frontend migrations, automated testing, and close collaboration with design, product, and engineering teams.
 
-**Tools I've worked with:** JavaScript, TypeScript, React, Angular, Vue, Lit, HTML, CSS, Sass, Storybook, Cypress, and Figma.
+**Tools I've worked with:** JavaScript, TypeScript, React, Angular, Vue, Svelte, Lit, HTML, CSS, Sass, Storybook, Cypress, and Figma.
 
 ## Personal projects
 
@@ -22,10 +22,7 @@ My work connects thoughtful design with reusable components, accessible interact
 | [Zonks](https://github.com/Greta/zonks) | An interactive exploration of the Monty Hall problem, built with React. |
 | [Hunt the Wumpus](https://github.com/Greta/wumpus) | An earlier AngularJS game inspired by the TI-99/4A classic. |
 
-I'm refreshing my public portfolio and planning a class-attendance app as a way to explore Svelte.
-
 Outside of code, I enjoy painting, board games, and puzzles.
 
-**Open to full-time remote frontend engineering opportunities in the US.**
-
+[See my art](https://www.gretagail.art/)
 [Connect with me on LinkedIn](https://www.linkedin.com/in/greta-prisby-9bb15623/)
