@@ -25,4 +25,5 @@ My work connects thoughtful design with reusable components, accessible interact
 Outside of code, I enjoy painting, board games, and puzzles.
 
 [See my art](https://www.gretagail.art/)
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/greta-prisby-9bb15623/)
